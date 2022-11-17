@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ye-min-aung
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
